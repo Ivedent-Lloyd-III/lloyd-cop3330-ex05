@@ -21,10 +21,10 @@ public class Solution {
         double mul = number01 * number02;
         double div = number01 / number02;
 
-        System.out.println(""+number01+" + "+number02+" = "+sum);
-        System.out.println(""+number01+" - "+number02+" = "+dif);
-        System.out.println(""+number01+" * "+number02+" = "+mul);
-        System.out.println(""+number01+" / "+number02+" = "+div);
+        System.out.println(""+number01+" + "+number02+" = "+sum+"\r\n"
+        +number01+" - "+number02+" = "+dif+"\r\n"
+        +number01+" * "+number02+" = "+mul+"\r\n"
+        +number01+" / "+number02+" = "+div);
 
 
     }
